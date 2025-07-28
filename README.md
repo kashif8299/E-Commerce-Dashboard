@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Sales Dashboard (Power BI)
 
-![E-Commerce Sales Dashboard](E-commerce_web_design_EWM_SA_Digital_Agency_Geneva.jpg)
+![E-Commerce Sales Dashboard](Screenshot 2025-06-09 210552.png)
 
 ---
 
